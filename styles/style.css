@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+   width:  50px;
+    height: 50px;
+    margin: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.textview {
+    width: 212px;
+    margin: 5px;
+    font-size: 25px;
+    margin-bottom: 30px;
+    border: 5px solid black;
+    height: 50px;
+}
+
+.main {
+    background-color: rgb(158, 156, 156);
+    margin: auto;
+    height: 400px;
+    padding-top: 50px;
+    width: 250px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border: 2px solid black;
+    box-shadow: 0px 10px 10px 0 gray;
+    cursor: pointer;
+}
+
+
+.button1 {
+    width: 50px;
+}
